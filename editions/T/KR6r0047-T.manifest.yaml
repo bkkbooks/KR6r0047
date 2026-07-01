@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6r0047/T/v1
+canonical_location: https://kanripo.org/bkk/KR6r0047/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大唐青龍寺三朝供奉大德行狀
+  identifiers:
+    krp: KR6r0047
+    cbeta: T50n2057
+    cbeta_old_id: T50n2057
+    authorityid: CA0001492
+    json_key: T2057
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T50/T50n2057.xml
+    old_id: T50n2057
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0047_000-T.yaml, hash: 'sha256:af43b4fd1d47aa5ef7199b8e4d4ba8db29a819e73f0b3cd5e964c912bba5d056'}
+  - {seq: 1, filename: KR6r0047_001-T.yaml, hash: 'sha256:4165bbd2b3e825d18c4dfb4f59b425394b6c4096efc690d3ccc3bef48fcc05f3'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0047_000-T.markers.yaml, hash: 'sha256:8a56ccdbb8c9002577a20da4a64a4669e7d676d0bc012379811d67601f8f6c26'}
+  - {seq: 1, role: markers, filename: assets/KR6r0047_001-T.markers.yaml, hash: 'sha256:07eff86e4824599d80ef13af63cbf82e04d14c85533d01988d5e84dfe8754b25'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6r0047_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1801
+  label: 大唐青龍寺三朝供奉大德行狀
+  type: juan
+  level: 1
+hash: sha256:07e328c176b78dc50f7352d8a0c9bb696425ac19e5788827cdb85b3ac91a25a9

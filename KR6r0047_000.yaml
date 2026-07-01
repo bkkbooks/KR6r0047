@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6r0047/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大唐青龍寺三朝供奉大德行狀
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T50/T50n2057.xml
+    old_id: T50n2057
+hash: sha256:af43b4fd1d47aa5ef7199b8e4d4ba8db29a819e73f0b3cd5e964c912bba5d056
