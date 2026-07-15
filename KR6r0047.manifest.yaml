@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6r0047/v1
 canonical_location: https://kanripo.org/bkk/KR6r0047/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大唐青龍寺三朝供奉大德行狀
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6r0047_000.yaml, hash: 'sha256:af43b4fd1d47aa5ef7199b8e4d4ba8db29a819e73f0b3cd5e964c912bba5d056'}
-  - {seq: 1, filename: KR6r0047_001.yaml, hash: 'sha256:4165bbd2b3e825d18c4dfb4f59b425394b6c4096efc690d3ccc3bef48fcc05f3'}
+  - {seq: 1, filename: KR6r0047_001.yaml, hash: 'sha256:f9c6c6def3783ad0f1b4e6088f5ab16515a16b9dd694e2b418cb1d9c57269a11'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6r0047_000.markers.yaml, hash: 'sha256:cc873480ec9a5b01e0b6b2828273cf39490f6c36346b310740ba8f2a54e837ef'}
-  - {seq: 1, role: markers, filename: assets/KR6r0047_001.markers.yaml, hash: 'sha256:db22f6dc9afb497e139d3092cbf341cd967788aa6eb89abc47190a2024f6a031'}
+  - {seq: 1, role: markers, filename: assets/KR6r0047_001.markers.yaml, hash: 'sha256:c3cb122f825eaa68c6cef0692880673b6a1a6fc6fc6cdd746ccc6d78cb77151a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,6 +32,9 @@ table_of_contents:
   label: 大唐青龍寺三朝供奉大德行狀
   type: juan
   level: 1
-hash: sha256:c5e10cae615b9ff722ea1fce9480f2dfe124d03568540ab652f62af0db9fb3d4
+hash: sha256:d9b4ba9265677a9ed194b9a77fbea23ba5eb317c58b67d6ee2bef5aebcf060fc
 editions:
 - short: T
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
